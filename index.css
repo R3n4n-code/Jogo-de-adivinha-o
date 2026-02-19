@@ -1,0 +1,59 @@
+* {
+    padding: 0%;
+    margin: 0%;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+    
+}
+
+ p {
+    text-align: center;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    
+}
+
+input {
+    text-align: center;
+    display:block;
+    margin:0 auto;
+    border-radius: 15px;
+    border: solid;
+    width: 250px;
+}
+
+::placeholder {
+    text-align: center;
+
+}
+
+main button {
+
+    display: block;
+    margin: 0 auto;
+    width: 70px;
+    height: 30px;
+    border-radius: 14px;
+    background-color: orangered;
+}
+
+main {
+    margin: 0 auto;
+    padding-top: 25px;
+    width: 450px;
+    height: 290px;
+    margin-top: 15%;
+    background-color: bisque;
+    background-size: 400px 248px;
+    border-style: solid;
+    border-radius: 15px;
+    
+}
+
+body {
+    background-color: brown;
+    font-family: cursive;
+}
